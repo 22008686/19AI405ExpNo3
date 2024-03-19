@@ -1,6 +1,6 @@
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name:Gedipudi Darshani</h3>
-<h3>Register Number:212223230062</h3>
+<h3>Name:M.Pavithra</h3>
+<h3>Register Number:212222100032</h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
